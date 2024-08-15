@@ -14,16 +14,16 @@ export const sendEmail = async ({email,emailType, userId})=>{
         }
         
         var transport = nodemailer.createTransport({
-          host: "smtp.titan.email",
+          host: "us2.smtp.mailhostbox.com",
           port: 587,
           secure:false,
           auth: {
-            user: "admin@mukultech.online",
+            user: "support@walletclone.in.net",
             pass: process.env.MAIL_PASS
           }
         });
           const mailOptions = {
-            from: "admin@mukultech.online",
+            from: "support@walletclone.in.net",
             to : email,
             subject: emailType==='VERIFY'?"Verify Your Account": "Reset Your Password",
             html: `<p>Click <a href = ${process.env.DOMAIN}/${emailType==='VERIFY'?"verifyemail":"resetpassword"}?token=${hashedToken}>Here</a> to ${emailType === 'VERIFY' ? "Verify Your Email" : "Reset Your Password"} or copy the url given below. <br> ${process.env.DOMAIN}/${emailType==='VERIFY'?"verifyemail":"resetpassword"}?token=${hashedToken} </p>`

@@ -5,8 +5,8 @@ import jwt from "jsonwebtoken";
 import connect from "@/dbConfig/dbConfig";
 
 
-connect()
 
+connect()
 export async function POST(request){
     try {
         const reqBody = await request.json()

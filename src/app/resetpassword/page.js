@@ -60,7 +60,7 @@ function ResetPassword() {
       <h2 className="text-2xl font-semibold mb-6 text-center">
         Reset Password
       </h2>
-      <form onSubmit={handleSubmit}> {/* <-- Add onSubmit attribute here */}
+      <form onSubmit={handleSubmit}>
         <div className="mb-4">
           <label
             className="block text-gray-700 text-sm font-bold mb-2"

@@ -15,7 +15,8 @@ export function ProvideContext({children}) {
   const [isNavbar, setIsNavbar] = useState(false);
   const [password,setPassword] = useState('')
   const [mobile,setMobile] = useState()
-
+  const [showForm, setShowForm] = useState(false)
+  const [farmers,setFarmers] = useState([])
 
   const fetchUser = async ()=>{
     setIsLoader(true)
@@ -40,7 +41,7 @@ export function ProvideContext({children}) {
   }, [])
 
   return (
-    <contexter.Provider value={{ username,setUsername,walletAmount,setWalletAmount,isFirstUpdated,setIsFirstUpdated,expense,setExpense,isLoader,setIsLoader,isNavbar,setIsNavbar,isActive,setIsActive,password,mobile}}>
+    <contexter.Provider value={{ username,setUsername,walletAmount,setWalletAmount,farmers,setFarmers,isFirstUpdated,setIsFirstUpdated,expense,setExpense,isLoader,setIsLoader,isNavbar,setIsNavbar,isActive,setIsActive,password,mobile,showForm,setShowForm}}>
       {children}
     </contexter.Provider>
   );
