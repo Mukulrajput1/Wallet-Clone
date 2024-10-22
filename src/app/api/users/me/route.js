@@ -1,18 +1,23 @@
-import connect from "@/dbConfig/dbConfig";
-import User from "@/models/userModel";
-import { NextRequest, NextResponse } from "next/server";
-import bcryptjs from "bcryptjs";
-import getDataFromToken from "@/helpers/getDataFromToken";
+import path from 'path';
+import { promises as fs } from 'fs';
+import { NextResponse } from 'next/server';
 
-connect();
+export async function GET(req, res) {
 
-export async function GET(request) {
-  try {
-    const id = await getDataFromToken(request);
-    const user = await User.findOne({ _id: id })
-    // .select('-password');
-    return NextResponse.json({message: "User found", data: user} )
-  } catch (error) {
-    return NextResponse.json({ error: "something went wrong" }, { status: 500 });
-  }
+    const filePath = path.join(process.cwd(), 'public', 'abc', 'build', 'index.html');
+    const fileContent = await fs.readFile(filePath, 'utf8');
+    // const fileContent = '<html><body><h1>Hello World</h1></body></html>';
+    return new Response(fileContent, {
+      headers: { 'Content-Type': 'text/html' }
+    });
+  
+  //  catch (err) {
+  //   console.error(`Error sending file: ${err}`);
+  //   return NextResponse.json(
+  //     {
+  //       error: "data not added successfully",
+  //     },
+  //     { status: 500 }
+  //   );
+  // }
 }
