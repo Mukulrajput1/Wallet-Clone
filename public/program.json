@@ -171,7 +171,7 @@
     "programEntryType": "",
     "program_checkbox": {
       "showInAll": true,
-      "is_featured": false
+      "is_featured": true
     },
     "number_of_winners": 0,
     "family_share_point": 0,
