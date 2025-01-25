@@ -178,8 +178,7 @@
     "social_share_point": 0,
     "eligibilty_criteria": {
       "child_age": {
-        "end_span": "12",
-        "start_span": "7"
+        "end_span": "6"
       }
     },
     "AvailablePartnerList": [],
