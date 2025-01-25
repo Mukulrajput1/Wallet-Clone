@@ -1,0 +1,612 @@
+[
+    {
+      "id": "26016900-6a96-11ef-aa56-a112e7b8bc54",
+      "program_image": "learn-to-read-and-play.jpg",
+      "program_title": "Win a Learn-to-Read & Play bundle",
+      "program_subtitle": "Learn about RESPs and chance to win a Learn-to-Read & Play bundle for your child",
+      "program_description": "<p>Enter to learn about RESPs and chance to win a Learn-to-Read &amp; Play bundle for your child Including: an Echo Dot and a Fire HD 10 Kids tablet, 10.1”</p><p><br></p><p>Value: $350 [Canadian dollars].</p>",
+      "short_description": "<p>By entering you are agreeing to the Terms and Conditions below and for family.one to transfer relevant information and contact details to family.one to contact you by phone or email about Registered Education Savings Plans. No purchase necessary. <strong>See Giveaway Terms and Conditions for more details</strong></p>",
+      "program_type": "contest",
+      "start_date": "2024-09-03",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-04-03",
+      "expiry_time": "11:59:00 PM",
+      "entry_criteria": "[\"phone_number\"]",
+      "logo": [
+        "resized_6ex4n8m0uiv4dd_logo_icon_family_small_space_whitebg.jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": " ",
+      "program_entry_type": "perhouse",
+      "twince_allowed": false,
+      "partner_id": "5",
+      "partner_categories": "[\"RESP\"]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": 0,
+          "end_span": 142
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[\"grandparent\"]"
+      }
+    },
+    {
+      "id": "e12fa980-b172-11ef-b402-c9e9fba887c7",
+      "program_image": "resized_5xvlzym8m48flkya_7be8c4a3-df70-4711-9f35-0c26a5092e43.jpg",
+      "program_title": "Participate in a Leading Study on Baby Development at York University",
+      "program_subtitle": "Join a Globally Recognized Research Team and Take Home Great Gifts!",
+      "program_description": "<p><strong>Spend 30 minutes in a safe, welcoming environment observing your baby's curiosity and unique responses to engaging activities, led by a team of world-renowned experts in infant cognitive development. Your participation supports cutting-edge research at York University's acclaimed Visual and Cognitive Development Project, recognized worldwide for advancing our understanding of how babies see and learn.</strong></p><p><strong>What You Get:</strong></p><p>A free <strong>Dove Tip-to-Toe Baby Wash</strong> (worth $8.00)</p><p>PLUS, choose one:</p><ul><li>‘<strong>Baby’s Firsts</strong>’ Memory Book to capture your child’s milestones with bonus Baby How-Tos collection of new parent infographics (worth $39.95), or</li><li>A starter pack with a <strong>100% brushed cotton baby romper</strong> (size 3–6 mo) and a <strong>high-quality sail-cloth canvas bag</strong> (worth $49.99).</li></ul>",
+      "short_description": "<p>By pressing “Join Study” you are agreeing to the Terms and Conditions.</p>",
+      "program_type": "contest",
+      "start_date": "2024-11-30",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-04-30",
+      "expiry_time": "12:00:00 AM",
+      "entry_criteria": "[\"phone_number\"]",
+      "logo": [
+        "resized_e1pl8m4i8vk6q_image4.png"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": " ",
+      "program_entry_type": "perhouse",
+      "twince_allowed": false,
+      "partner_id": "1594",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": -3,
+          "end_span": 3
+        },
+        "country": "Canada",
+        "restrict_province": [
+          "AB",
+          "BC",
+          "MB",
+          "NB",
+          "NL",
+          "NT",
+          "NU",
+          "NS",
+          "PE",
+          "QC",
+          "SK",
+          "YT"
+        ],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "25085040-897a-11ec-bef6-97482eccf4e8",
+      "program_image": "resized_c1rjlg8len31rsc_03_MJN_ProgramBanner.jpg",
+      "program_title": "Enfagrow A+® 3 Welcome Package ",
+      "program_subtitle": "Enfagrow A+® and up free products and savings",
+      "program_description": "<p>Free can of Enfagrow A+® at 12 months (up to $29.97)</p><p>$8 off Enfagrow A+® at 16 months</p><p>PLUS, the option to upgrade to Premium for even more savings!</p>",
+      "short_description": "<p>By redeeming you are agreeing to the Terms and Conditions below. family.one will facilitate your enrolment in My Family Beginnings™ by Enfamil A+® including transfer of relevant information. Value may vary depending on age, location and time of enrolment.</p>",
+      "program_type": "freebie",
+      "start_date": "2022-02-08",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2032-03-08",
+      "expiry_time": "11:45:00 PM",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_a8dfvuc9kucsob2h_Enfamil_logo_328x328px_transparent.jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": "Enfagrow A+® 3 Welcome Package ",
+      "program_entry_type": "perchild",
+      "twince_allowed": false,
+      "partner_id": "3",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": 13,
+          "end_span": 24
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "03567f90-6a90-11ef-b536-a3db1ce12fb2",
+      "program_image": "creative-blocks.jpg",
+      "program_title": "Win a creative building bundle of prizes",
+      "program_subtitle": "Win a creative building bundle of prizes",
+      "program_description": "<p>Win a creative building bundle of prizes for your child Including LEGO®: Medium Creative Brick Box Classic, Creative Pastel Fun, Disney Stitch, Creator 3 in 1 Retro Roller Skate Building Kit. PLAYMOBIL Treasure Diver and a MEGA Pokemon Action Figure Building Toys</p><p>Value: <strong>$300 </strong>[Canadian dollars].</p>",
+      "short_description": "<p>By entering you are agreeing to the Terms and Conditions. No purchase necessary. <strong>See Giveaway Terms and Conditions for more details</strong></p>",
+      "program_type": "contest",
+      "start_date": "2024-09-03",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-04-03",
+      "expiry_time": "11:55:00 PM",
+      "entry_criteria": "[\"phone_number\"]",
+      "logo": [
+        "resized_6ex4n8m0uiv4dd_logo_icon_family_small_space_whitebg.jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": " ",
+      "program_entry_type": "perhouse",
+      "twince_allowed": false,
+      "partner_id": "5",
+      "partner_categories": "[\"RESP\"]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": 0,
+          "end_span": 142
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[\"grandparent\"]"
+      }
+    },
+    {
+      "id": "31d2c620-b6fe-11ef-92f2-af083c301df4",
+      "program_image": "resized_1foo8m4uyh2pl_CST_08_-baby-shower-2_feeding_app_2.jpg",
+      "program_title": "Win a $1200 Feeding Time Bundle from CST Savings Inc.",
+      "program_subtitle": "Learn about CST RESPs and your chance to win a $1200 Bundle for your child",
+      "program_description": "<p>Learn about the importance of a Registered Education Savings Plans (RESP) and get a chance to win a feeding bundle of gifts for your child, including a Stokke High Chair, baby/toddler food maker, cups, bibs, and toys.</p><p>Estimated retail value: $1,200</p>",
+      "short_description": "<p><strong>No purchase necessary.</strong> By entering you are agreeing to the linked Terms and Conditions. See Giveaway Terms and Conditions for more details.</p>",
+      "program_type": "contest",
+      "start_date": "2024-12-10",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-09-17",
+      "expiry_time": "12:00:00 AM",
+      "entry_criteria": "[\"cst_consent\",\"phone_number\"]",
+      "logo": [
+        "resized_cajkde7d9kzyecc6b_cst-savings-logo.jpg"
+      ],
+      "is_featured": 1,
+      "featured_image": "resized_1foo8m4uyisaf_CST_08_-baby-shower-2_feeding_app_2.jpg",
+      "feature_title": "Win a $1,200 Feeding Time Bundle from CST Savings Inc.",
+      "program_entry_type": "perchild",
+      "twince_allowed": false,
+      "partner_id": "14",
+      "partner_categories": "[\"RESP\"]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": -9,
+          "end_span": 36
+        },
+        "country": "Canada",
+        "restrict_province": [
+          "NU",
+          "MB"
+        ],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "d631ca90-7685-11ef-b386-ed38d571a923",
+      "program_image": "resized_hqik8lu26bcuc_amazon-baby_APR_2024_purple_01.jpg",
+      "program_title": "Win a $500 Registry from family.one",
+      "program_subtitle": "Win $500 from family.one off your Amazon Baby Registry",
+      "program_description": "<p>Create an Amazon.ca baby registry, get a chance to win it from family.one</p>",
+      "short_description": "<p>I understand and agree that the information I've provided will be used according to the terms, Privacy Policy. Offer and values may vary. Terms and Conditions apply. If the winner's registry is deemed illegitimate or contains less than $500 in products, family.one reserves the right to draw a supplementary winner or award the winner a smaller prize based on their registry value. You must be expecting a baby to qualify for entry. NO PURCHASE NECESSARY See Terms and Conditions for the details</p>",
+      "program_type": "contest",
+      "start_date": "2024-09-19",
+      "start_time": "12:01:00 AM",
+      "expiry_date": "2025-02-20",
+      "expiry_time": "11:59:00 PM",
+      "entry_criteria": "[\"baby_registry\"]",
+      "logo": [
+        "resized_co40lw7kb0bz4lo_22491730_1701445109889877_858471806757923661_n.jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": " ",
+      "program_entry_type": "perhouse",
+      "twince_allowed": false,
+      "partner_id": "6",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": -8,
+          "end_span": 0
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "c2de9d20-66f2-11eb-8828-250ca05e68e3",
+      "program_image": "resized_3pvhr8lx1cutvk_enfmil_june_2024_app_01.jpg",
+      "program_title": "Enfamil A+® Welcome Package (Infant)",
+      "program_subtitle": "Up to $200 in Coupons, partner discounts and more",
+      "program_description": "<p>Get up to $200 in infant formula coupons, partner discounts, and more from My Family Beginnings™ by Enfamil A+®</p><p>Pre/post-natal coupons:</p><p>$15 off Enfamil NeuroPro Nursettes or Ready to Feed</p><p>2x $20 off Enfamil NeuroPro and NeuroPro Gentlease</p><p>$10 off Enfamil A+ Brands</p><p>Save $20 Enfamil A+® NeuroPro and NeuroPro Gentlease coupon at 6 months</p><p>Save $35 off Enfagrow A+® at 12 months</p><p>PLUS, the option to upgrade to Premium for even more savings!</p>",
+      "short_description": "<p>By redeeming you are agreeing to the Terms and Conditions below. family.one will facilitate your enrolment in My Family Beginnings™ by Enfamil A+® including transfer of relevant information. Value may vary depending on age, location and time of enrolment.</p>",
+      "program_type": "freebie",
+      "start_date": "2021-11-11",
+      "start_time": "00:00:00",
+      "expiry_date": "2031-11-11",
+      "expiry_time": "23:45:00",
+      "entry_criteria": "[]",
+      "logo": [
+          "resized_a8dfvuc9kucsob2h_Enfamil_logo_328x328px_transparent.jpg"
+      ],
+      "is_featured": 1,
+      "featured_image": "resized_3pvhr8lx1ctpnf_enfmil_june_2024_sqaure_01_01.jpg",
+      "feature_title": "Enfamil A+® Welcome Package (Infant)",
+      "program_entry_type": "perchild",
+      "twince_allowed": false,
+"is_locked": 1,  
+  "required_program_to_unlock": ["e12fa980-b172-11ef-b402-c9e9fba887c7"], 
+      "partner_id": "3",
+      "partner_categories": "[\"Baby_Formula\",\"Infant_Formula\",\"Toddler_Formula\"]",
+      "eligibilty_criteria": {
+          "child_age": {
+              "start_span": -9,
+              "end_span": 6
+          },
+          "country": "Canada",
+          "restrict_province": [],
+          "relative_allowed": "[]",
+"available_after_entry_of_type": "all",  
+  "available_after_entry_of": ["3d41ba00-b6dd-11ef-a5fb-c512a892ab77"]         }
+  },
+    {
+      "id": "bc0003f0-cc8f-11ec-9d3e-a7a6bc42eb29",
+      "program_image": "resized_5ntz9kzzpco3a_enfamil_app_5-5-11month.jpg",
+      "program_title": "Enfamil A+® 2 Welcome Package ",
+      "program_subtitle": "Enfamil A+® 2 and up free products and savings",
+      "program_description": "<p>Save $20 Enfamil A+® 2 coupon at 6 months</p><p>Free can of Enfagrow A+® at 12 months (up to $29.97)</p><p>$8 off Enfagrow A+® at 16 months</p><p>PLUS, the option to upgrade to Premium for even more savings!</p>",
+      "short_description": "<p>By redeeming you are agreeing to the Terms and Conditions below. family.one will facilitate your enrolment in My Family Beginnings™ by Enfamil A+® including transfer of relevant information. Value may vary depending on age, location and time of enrolment.</p>",
+      "program_type": "freebie",
+      "start_date": "2022-05-05",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2031-12-13",
+      "expiry_time": "7:00:00 PM",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_a8dfvuc9kucsob2h_Enfamil_logo_328x328px_transparent.jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": " ",
+      "feature_title": "Enfamil A+® 2 Welcome Package ",
+      "program_entry_type": "perchild",
+      "twince_allowed": false,
+      "partner_id": "3",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": 7,
+          "end_span": 12
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "3d41ba00-b6dd-11ef-a5fb-c512a892ab77",
+      "program_image": "resized_1qmb38m4ia66am_cst_12_648 (1).jpg",
+      "program_title": "Win a $2000 Must-have bundle from CST Savings Inc.",
+      "program_subtitle": "Learn about CST RESPs and your chance to win a $2000 Bundle for your child",
+      "program_description": "<p>Learn about the importance of a Registered Education Savings Plan (RESP) and get a chance to win a Must-have bundle of gifts for your baby, including&nbsp;a Diono car seat, teether, Maxi-cosi stroller, baby bottles, diaper pail, toys and a 3 sprouts toy box.</p>",
+      "short_description": "<p>No purchase necessary. By entering you are agreeing to the linked Terms and Conditions. See Giveaway Terms and Conditions for more details.</p>",
+      "program_type": "contest",
+      "start_date": "2024-12-11",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-11-25",
+      "expiry_time": "12:00:00 AM",
+      "entry_criteria": "[\"cst_consent\",\"phone_number\"]",
+      "logo": [
+        "resized_cajkde7d9kzyecc6b_cst-savings-logo.jpg"
+      ],
+      "is_featured": 1,
+      "featured_image": "resized_4phx18m4jvddjf_sqaure.jpg",
+      "feature_title": " Win a $2000 Must-have bundle from CST Savings Inc.",
+      "program_entry_type": "perchild",
+      "twince_allowed": false,
+      "partner_id": "14",
+      "partner_categories": "[\"RESP\"]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": -9,
+          "end_span": 36
+        },
+        "country": "Canada",
+        "restrict_province": [
+          "MB",
+          "NU"
+        ],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "f5edb890-9362-11ef-852b-35bded1d5b7a",
+      "program_image": "resized_tntvboy8m38a9vdz_36f6a116-4009-4d3c-8d04-97f4a314bc7b.jpg",
+      "program_title": "Similac<sup>®</sup> Club Get up to $300 in value*",
+      "program_subtitle": "* Offer received may vary depending on your location and baby's date of birth.",
+      "program_description": "<p>Join the Similac® Club for free and receive up to $300 in value.</p>",
+      "short_description": "<p>In order to sign up to the Abbott’s Similac® Club, family.one requires you to agree to the terms on the consent screens that follow.</p>",
+      "program_type": "freebie",
+      "start_date": "2024-10-29",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2025-01-01",
+      "expiry_time": "11:45:00 AM",
+      "entry_criteria": "[\"terms\"]",
+      "logo": [
+        "resized_bwcn8m2q0lufp_New Project (1).jpg"
+      ],
+      "is_featured": 0,
+      "featured_image": "resized_2lqxkp88m3fj7bzq_Similac_300_Oct_30_2024-square.jpg",
+      "feature_title": "Similac<sup>®</sup> Club Get up to $300 in value*",
+      "program_entry_type": "perhouse",
+      "twince_allowed": false,
+      "partner_id": "2",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": -8,
+          "end_span": 12
+        },
+        "country": "Canada",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "66f1c150-a55e-11ea-95af-4f25268b8dba",
+      "program_image": "resized_kuvuw7kazgc49a_aleesha-winner.jpg",
+      "program_title": "Thank you Aleesha",
+      "program_subtitle": "Thank you Aleesha",
+      "program_type": "story",
+      "start_date": "2020-06-08",
+      "start_time": "00:00:00",
+      "expiry_date": "2024-06-06",
+      "expiry_time": "00:00:00",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_co40lw7kb0bz4lo_22491730_1701445109889877_858471806757923661_n.jpg"
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "Prize list",
+      "story_paragraph1": "<p>Thank you Aleesha D. of Waldheim, SK. for this wonderful video sharing your prizes. Ongoing giveaways:&nbsp;<a href=\"https://app.family.one/?fbclid=IwAR0tO-gQyIJyYCLHV2g9g-PUqN0fEt5rUAB_tN8qTgRRxa9ia1cfTU4FtVM\" rel=\"noopener noreferrer\" target=\"_blank\">https://app.family.one/</a></p><p>Aleesha was the winner of the giveaway: \"Win a Baby &amp; Toddler Bundle of Gifts\", August 2019</p><p><br></p><p>Baby &amp; Toddler Bundle of Gifts GIVEAWAY is here for CANADIAN families to enter!!!! One winner will win the whole bundle Simply Enter after Sign-up/log in at&nbsp;<a href=\"https://app.family.one/?fbclid=IwAR1SlF3njU5t5c26xhytnVXpyzXcBTcoc-G3CvucRotGdmy3W7nBliBOcbs\" rel=\"noopener noreferrer\" target=\"_blank\">https://app.family.one/</a></p><p><br></p><p>Prize Value: $400</p><p>Start Date: July 21</p><p>End Date: August 21</p>",
+      "story_paragraph2": "<p>· Trunki: The Original Ride-On Suitcase</p><p>· Fisher-Price Laugh &amp; Learn Servin' Up Fun Food Truck</p><p>· Mega Bloks First Builders Block Scooping Fun Wagon</p><p>· LEGO DUPLO My First Number Train</p><p>· Playgro Bath Fun Play Pack</p><p>· Fisher-Price Little People Farm Animal Friends</p><p>· Mega Bloks Deluxe Building Bag</p><p>· LeapFrog Step &amp; Learn Scout (English Version)</p><p>· Sesame Street Let's Cuddle Elmo</p><p><br></p><p>Signing up for family.one is Free at&nbsp;<a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fapp.family.one%2F%3Ffbclid%3DIwAR22B3RTUqxdpswgTpEmYKu0yOFmN98So0zd8sUAaG1_krDA7lC0fcy7ZSE&amp;h=AT1xnR18xSzIm9vM1Q-RjzH3aYd7tQSsu9Dg7-uX-A1a5bmFpUkZvBZSiAyeIvW6Hmk8lltgl-SZ8ZKV65llQ-8k0Qm-ux05ljQxGyoQ3Mm19JbIJ7KEdw8PlHSAvJ9ZdWGbKCiz\" rel=\"noopener noreferrer\" target=\"_blank\">https://app.family.one/</a></p>",
+      "partner_id": "5",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "relative_allowed": "\"\""
+      }
+    },
+    {
+      "id": "e871d550-663b-11eb-9eb1-c15e8481ff21",
+      "program_image": "resized_af0ldc8kkqzy3qc_book-export-review-like-you-back",
+      "program_title": "Congratulations Ashleen C.",
+      "program_subtitle": "Chosen Member of Like you Back on Facebook",
+      "program_type": "story",
+      "start_date": "2021-02-02",
+      "start_time": "12:00:00 AM",
+      "expiry_date": " ",
+      "expiry_time": " ",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_5pj3qc6kkpn151g_book-review"
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "Rules and Options:",
+      "story_paragraph1": "<p>Like You Back by Family.one #3 selecting 5 of our members here to WIN 1-of-5 prizes of their choice!! OH... YES!!!</p><p><br></p><p>To be participate in future Like You Back by family.one simply like and follow our social media accounts. https://www.facebook.com/family.oneCanada/</p><p>This Time selected members are:</p><p><br></p><p>1. Shelly Wambolt</p><p>2. Shannon Jordan</p><p>3. Mikaila Nolan</p><p>4. Jenna McDonald</p><p>5. Ashleen Carag Bunuan</p><p><br></p><p>Selected members will get to choose 1 of the following prizes for their liking.</p>",
+      "story_paragraph2": "<p>If you were selected:</p><p>All you need to do is send us a message letting us know which of the following prizes you'd like to receive&nbsp;<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png\"></p><p><br></p><p>If you weren't selected:</p><p>All 5 selected members have liked our page before this post was created*. Active members have a better chance to get noticed&nbsp;<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png\"></p><p><br></p><p>1. LEGO DUPLO Jurassic World Gentle Giants</p><p>2. Fisher-Price Soothe &amp; Glow Seahorse</p><p>3. Gund Sesame Street Take Along Elmo</p><p>4. Play Circle shopping cart</p><p>5. First 100 Board Book Box Set (3 books)</p>",
+      "partner_id": " ",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "f15bf9d0-4920-11eb-97c9-9b567d163652",
+      "program_image": "resized_3lszf8kj8pqeq4_jennifer2.jpg",
+      "program_title": "Congratulations Jennifer M.",
+      "program_subtitle": "Thank you Jennifer M. of Amherstburg, ON. for sharing a wonderful picture with us! ",
+      "program_type": "story",
+      "start_date": "2020-12-27",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2024-09-27",
+      "expiry_time": "12:00:00 AM",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_co40lw7kb0bz4lo_22491730_1701445109889877_858471806757923661_n.jpg"
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "Jennifer won:",
+      "story_paragraph1": "<p>Our team here at family.one hope you will enjoy all of the products with your family.&nbsp;</p><p>Here's the review sent to us by Jennifer on our facebook page:</p><p><br></p><p>They are awesome! They giveaway stuff that is helpful and don't ask for anything in return. They have been a great help in assisting me to prepare to be a first-time mom.</p><p>Thank you so much!</p>",
+      "story_paragraph2": "<ol><li>Carter's Baby Activity Gym</li><li>Skip Hop Moby Bath Toy Organizer</li><li>Diaper Bag Multi-Function</li><li>Playtex Baby bottle pack of 3</li><li>Fisher-Price Click Clack Llama</li><li>Baby Blanket, with Double Layer Dotted Backing</li><li>Baby Diaper Caddy Organizer</li><li>Newborn Baby Winter Warm Outfits</li><li>Philips Avent Classic Pacifier 0-6m</li><li>Fisher-Price Musical Lion Walker</li><li>Boon Water Bugs Floating Bath Toys</li></ol>",
+      "partner_id": "5",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "ea395eb0-6566-11eb-9571-2d303baa1617",
+      "program_image": "resized_1448w08kko4ig2s_eleanor_winner_cicrle",
+      "program_title": "Congratulations Heather and Baby Eleanor",
+      "program_subtitle": "Winner of Welcome-Home Giveaway Jan 14, 2021 Heather I. of Shigawak  and Baby Eleanor",
+      "program_type": "story",
+      "start_date": "2021-02-02",
+      "start_time": "7:45:00 AM",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_1448w08kko4l5lu_eleanor_winner_cicrle"
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "Here's what Heather won",
+      "story_paragraph1": "<p>Car seat and toys Giveaway</p><p>Retail value: $400</p><p>Ended January 14. 2021</p>",
+      "story_paragraph2": "<p>1. Chicco Infant Car Seat</p><p>2. Muslin Baby Swaddle Blankets,</p><p>3. LeapFrog Phonics Fun Animal Bus</p><p>4. Melissa &amp; Doug 4 Cars and Trucks</p><p>5. One Two Squeeze Baby Blocks</p><p>6. Baby Einstein Explore and Discover Soft Book Toy</p>",
+      "partner_id": "5",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "2460cf90-fea7-11eb-8638-a9c53bbe4cb1",
+      "program_image": "resized_sil739kseshwt9_brenda_progenics-winner-june-2021.jpeg",
+      "program_title": "Congratulations Brenda and baby Rafael",
+      "program_subtitle": "Winner of a Mamaroo 4, sponsored by Progenics!",
+      "program_type": "story",
+      "start_date": "2021-08-16",
+      "start_time": "11:33:16 AM",
+      "expiry_date": " ",
+      "expiry_time": " ",
+      "entry_criteria": "[]",
+      "logo": [
+        ""
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "The 4moms mamaRoo",
+      "story_paragraph1": "<p>Brenda had entered to win our giveaway to receive a full year of storage with Progenics and a chance to win a Mamaroo 4!</p><p>Retail value: $350</p><p>Ended June 10. 2021</p><p><br></p><p>Congratulations to Brenda P. of Whitehorse, YT., and her sweet baby boy Rafael for winning our giveaway.</p><p>Brenda had entered to win our giveaway to receive a full year of storage with Progenics and a chance to win a Mamaroo 4!</p>",
+      "story_paragraph2": "<p>The 4moms mamaRoo 4 infant seat bounces up and down and sways from side to side, just like parents do when comforting their baby.</p>",
+      "partner_id": " ",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "restrict_province": [],
+        "relative_allowed": "[]"
+      }
+    },
+    {
+      "id": "e95cd3f0-a590-11ea-9b8c-13d92369570d",
+      "program_image": "resized_1xgo7kazh6196_ashleen.jpg",
+      "program_title": "Thank you Ashleen S. Of Hamilton, ON for sharing your win",
+      "program_subtitle": "The first winners of the Welcome Home Bundle Giveaway",
+      "program_type": "story",
+      "start_date": "2020-06-04",
+      "start_time": "12:00:00 AM",
+      "expiry_date": "2024-02-01",
+      "expiry_time": "12:00:00 AM",
+      "entry_criteria": "[]",
+      "logo": [
+        "resized_co40lw7kb0bz4lo_22491730_1701445109889877_858471806757923661_n.jpg"
+      ],
+      "is_featured": 0,
+      "program_entry_type": [],
+      "twince_allowed": false,
+      "story_subtitle2": "Prize",
+      "story_paragraph1": "<p>Look at these gorgeous kids: Lochlann, Everett and little Delaney! A huge thank you &amp; you're welcome to this beautiful family. Ashleen S. Of Hamilton, ON.</p><p>The Last winner of this giveaway will be selected on June 2nd&nbsp;❤️&nbsp;Giveaway presents after signing-up:&nbsp;<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAA7FJREFUWAnNV1lIlFEU/u4/45gLY3symWkZhGNaRBst6kMEFS2QD1FQEBVFEUUPhdBDEdJmD+09FdGTYRAktMCUT4YttvqQlIaZSxEamk4zczvnOv8w0/z/LI5WB/Teueec7zv3nvPf//wCMYrzbZmtt02UeoE1kDIfEA5A0h+LaKN5G4R4ZwHupDmk662zyj2oi/xfRFYDOa6yTOnGEQmxSULao9mzXkD0CMibwoajzaVV7ZF8TAPIe783eeBjRzk5H6Adp0UCMdUJ0Uu6yuTcScebZpwbMLIzDIB37f0lbhPxQiOnuNeEqLMkyfVGpxEWQO7DjYUer+cukWTFTRTZoTVJw8oPy6teB5uFBKB27kb9CJDrnK0WG+YFn4Smazjn6tiHf+c6BY9ZzMFc+mIgAFVww5VzHd1oJA5/cSutSoG/6JqGXO1GRJHW6OmgoszjVKgT4Od8uMmTNZt5CPRYK06y0PiG40vG3Dp+zbrMJXAtPou8tMmmzszJ3Bpfr7HecKZoQYqlYwtxpmA3slImoHr+MdMgmJO5NXW3BwEkMp1ln4arsw8iSbMqmFc9H9DcZ34TM7dGuacXS+IyNWUSrs85jDTrKAX2msh3NJyGRxKNmRA3FSG/1RKTcTY7bswtx/jkDAXU0teBLc8r0OftjwIsHBSA/ko1t102rghnC/bAqLJTLaNwjXaek5qpAL4OdGPzs+P46u42BwxopGMwWYGF8El2ykScL9yH0UnpmJmeje0Np9Da36UMrcKCK0UHUJQxXf3u9fRj64sKtPw0z3swg6BK5BRQM2EuC8bkw25NVQZOew5qFp0AVzrLKecuFI+frea/fB7sfHkGXHixihTii5hyv8wFiZJITpwC/RTYzit9qP/eiIVjncpNSon9by6g+kttJJhwncAjjduocE3oSu23l1hddwiNP1qUwiK0ADkvVLy/GT85OxK3xj0cz6PJp5+dWPukHA86n4aYurpe4HJzTBAhfvyDuTVuILmHC9MaLPT73NjWcBK3Pj+i60OqS2YLFd1QhDkHucl76r2yiz5gVzxAGxzFqGmvQ5/PsNWLCkXVf6llRdVuGikV1L1SPriBjFlutT0eMjlzKU5iUwH4W6TKmNkTN6zU2zIVAONx60yR1SWOHQWBOBSX3+z/aUo5ID4Wq8W6iqat/gCHc1BtuX70OnDICeiLf/PDJFADOjmPHCXlqYRq4li8T0cwjvIlDMb6c+e6neEJ6Eoe+TT+ycdpcBA8H6nP898PW2+tnIPs1AAAAABJRU5ErkJggg==\"> <a href=\"https://app.family.one/?fbclid=IwAR0X7HEIEd68gfry9St61HpE8OXLdejja6rrD0xfh0nAbKWWN9l4EgdbmTo\" target=\"_blank\">https://app.family.one/</a></p><p><br></p><p>Ashleen S. Of Hamilton, ON.(selected on April 23.) is the 1 of 3 winners of the Welcome Home Baby GIveaway</p><p><br></p><p>We'd also like to congratulate the 2nd winner of this giveaway: Nada B. of Milton, ON. Selected on May 13th.</p><p><br></p><p>To Sign-up or log in go to&nbsp;<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAA7FJREFUWAnNV1lIlFEU/u4/45gLY3symWkZhGNaRBst6kMEFS2QD1FQEBVFEUUPhdBDEdJmD+09FdGTYRAktMCUT4YttvqQlIaZSxEamk4zczvnOv8w0/z/LI5WB/Teueec7zv3nvPf//wCMYrzbZmtt02UeoE1kDIfEA5A0h+LaKN5G4R4ZwHupDmk662zyj2oi/xfRFYDOa6yTOnGEQmxSULao9mzXkD0CMibwoajzaVV7ZF8TAPIe783eeBjRzk5H6Adp0UCMdUJ0Uu6yuTcScebZpwbMLIzDIB37f0lbhPxQiOnuNeEqLMkyfVGpxEWQO7DjYUer+cukWTFTRTZoTVJw8oPy6teB5uFBKB27kb9CJDrnK0WG+YFn4Smazjn6tiHf+c6BY9ZzMFc+mIgAFVww5VzHd1oJA5/cSutSoG/6JqGXO1GRJHW6OmgoszjVKgT4Od8uMmTNZt5CPRYK06y0PiG40vG3Dp+zbrMJXAtPou8tMmmzszJ3Bpfr7HecKZoQYqlYwtxpmA3slImoHr+MdMgmJO5NXW3BwEkMp1ln4arsw8iSbMqmFc9H9DcZ34TM7dGuacXS+IyNWUSrs85jDTrKAX2msh3NJyGRxKNmRA3FSG/1RKTcTY7bswtx/jkDAXU0teBLc8r0OftjwIsHBSA/ko1t102rghnC/bAqLJTLaNwjXaek5qpAL4OdGPzs+P46u42BwxopGMwWYGF8El2ykScL9yH0UnpmJmeje0Np9Da36UMrcKCK0UHUJQxXf3u9fRj64sKtPw0z3swg6BK5BRQM2EuC8bkw25NVQZOew5qFp0AVzrLKecuFI+frea/fB7sfHkGXHixihTii5hyv8wFiZJITpwC/RTYzit9qP/eiIVjncpNSon9by6g+kttJJhwncAjjduocE3oSu23l1hddwiNP1qUwiK0ADkvVLy/GT85OxK3xj0cz6PJp5+dWPukHA86n4aYurpe4HJzTBAhfvyDuTVuILmHC9MaLPT73NjWcBK3Pj+i60OqS2YLFd1QhDkHucl76r2yiz5gVzxAGxzFqGmvQ5/PsNWLCkXVf6llRdVuGikV1L1SPriBjFlutT0eMjlzKU5iUwH4W6TKmNkTN6zU2zIVAONx60yR1SWOHQWBOBSX3+z/aUo5ID4Wq8W6iqat/gCHc1BtuX70OnDICeiLf/PDJFADOjmPHCXlqYRq4li8T0cwjvIlDMb6c+e6neEJ6Eoe+TT+ycdpcBA8H6nP898PW2+tnIPs1AAAAABJRU5ErkJggg==\"> <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fapp.family.one%2F%3Ffbclid%3DIwAR3JE1dzZj6MJ1JMSONqTJ_-QzLbmbzpF5zqo8EzbNLWRRqg468tO4UvgSA&amp;h=AT2CVQ4Z31rtMJr7GJdcouMMFgKfJHpYblHdVUX8xVzobGPtn7Y1RR0T0BgvIboKWd2-beNJswrUPHDmDHJdmKeSOk25Y3poMnQYnK2BzoEsa42cypxDASDAN9RFrrA_JLepRw\" target=\"_blank\">https://app.family.one/</a>&nbsp;and see all of our freebies and giveaways including this new one.</p><p><br></p><p>The next lucky CANADIAN babies and families will be selected on:</p><p>-June 2</p>",
+      "story_paragraph2": "<p>Prize Retail Value: $530</p><p><br></p><p>The 3 Prize bundles Include the following items:</p><p>-Evenflo Symphony DLX All-in-One Car Seat (Apex)</p><p>-Fisher-Price 3-in-1 Sit-to-stand Activity Center</p><p>-Snuggle-buddies Plush extra-large teddybear</p><p>-Playgro Activity Friend</p><p>-Cuddle time 4 receiving blankets</p><p><br></p><p>Prizes ship free!</p>",
+      "partner_id": "5",
+      "partner_categories": "[]",
+      "eligibilty_criteria": {
+        "child_age": {
+          "start_span": null,
+          "end_span": null
+        },
+        "country": " ",
+        "relative_allowed": "\"\""
+      }
+    },
+    {
+      "id": "66265016",
+      "program_image": "resized_8y6w0k8k9cs4x2d_budget-marketing-thumbnail.jpg",
+      "program_title": "Budget",
+      "program_subtitle": "Save up to 35%* off Budget base rates",
+      "program_description": "<p>Save on car rentals when you plan your trip with&nbsp;<em>Budget</em>&nbsp;Car Rental. Enjoy the best deals, rates and accessories.</p>",
+      "program_type": "perk",
+      "logo": [
+        "resized_8y6w0k8k9cs4bhx_budgetLogoNew1.png"
+      ],
+      "partner_categories": "Travel"
+    },
+    {
+      "id": "40618284",
+      "program_image": "resized_gg2dwi8kj8qxm09_rom-perk-square",
+      "program_title": "ROM",
+      "program_subtitle": "20% off admission ",
+      "program_description": "<h3>20% off admission!</h3><p>The&nbsp;<em>ROM</em>&nbsp;is an indispensable resource for building community by nurturing discovery and inspiring wonder. The&nbsp;<em>ROM</em>&nbsp;invites visitors to explore and enjoy extraordinary experiences of science and civilization. We are Toronto's essential tourism destination for unforgettable insights that reveal how the earth and its culture&nbsp;...</p>",
+      "program_type": "perk",
+      "logo": [
+        "resized_4nyj27k9ctlvdi_rom-gallery.png"
+      ],
+      "partner_categories": "Family Fun"
+    },
+    {
+      "id": "32515045",
+      "program_image": "resized_4nyj27k9csqw1d_avis-marketing-thumbnail-instruction-copy.jpg",
+      "program_title": "Avis",
+      "program_subtitle": "Save up to 30%* off Avis base rates",
+      "program_description": "<p>Reserve your next car rental online with&nbsp;<em>Avis</em>&nbsp;and select from a large selection of vehicles in Canada. With the&nbsp;<em>Avis</em>&nbsp;Signature Series you can travel in style.</p>",
+      "program_type": "perk",
+      "logo": [
+        "resized_4nyj27k9csqcti_avis-red-logo-large.png"
+      ],
+      "partner_categories": "Travel"
+    },
+    {
+      "id": "84104581",
+      "program_image": "resized_2etmesm9l81yqli3_amazon-baby_perk_purple_2.jpg",
+      "program_title": "Amazon Registry",
+      "program_subtitle": "Prepare for your baby with Amazon Registry",
+      "program_description": "<p>Create an Amazon.ca baby registry</p>",
+      "program_type": "perk",
+      "logo": [
+        "resized_1bgb9l45v008s_download.png"
+      ],
+      "partner_categories": "Family Fun"
+    },
+    {
+      "id": "11301101",
+      "program_image": "resized_4nyj27k9ct5sr0_legoland-marketing-thumbnail-instruction.jpg",
+      "program_title": "LEGOLAND Discovery Center Toronto",
+      "program_subtitle": "Kids Go Free",
+      "program_description": "<p>Jump inside the world's biggest box of&nbsp;<em>LEGO</em>&nbsp;® bricks at&nbsp;<em>LEGOLAND</em>®&nbsp;<em>Discovery Center</em>, an indoor kids attraction with 4D cinema, rides and more!</p>",
+      "program_type": "perk",
+      "logo": [
+        "resized_4nyj27k9ct5ivl_legoland-discovery-centre-logo.png"
+      ],
+      "partner_categories": "Entertainment"
+    },
+    {
+      "id": "84977577",
+      "program_image": "resized_8y6w0k8k9crslz6_ripleys-aquarium-marketing-thumbnail-instruction1.jpg",
+      "program_title": "Ripleys Aquarium",
+      "program_subtitle": "Save 15-20%!",
+      "program_description": "<h3>Save 15-20%!</h3>",
+      "program_type": "perk",
+      "logo": [
+        "resized_8y6w0k8k9crru4f_Ripleys-Feature-Image-Hover-1.png"
+      ],
+      "partner_categories": "Family Fun"
+    }
+  ]
