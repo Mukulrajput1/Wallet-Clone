@@ -11,6 +11,7 @@ function LoginForm() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [isLoader,setIsLoader] = useState(false)
+  const url = process.env.NEXT_PUBLIC_API_URL
   const [error,setError] = useState('')
   const router = new useRouter()
   const handleUsernameChange = (event) => {
